@@ -1,6 +1,6 @@
 # hello-world
 
-**omar yossef**
+:bearded_person: **omar yossef** :wave:
 
  ## [Mein github link](https://github.com/omaryossef)
 ```
